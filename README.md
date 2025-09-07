@@ -15,6 +15,13 @@ I love working across the stack—from crafting intuitive UIs to implementing po
 
 ---
 
+## 💼 Professional Work
+I am currently working as a **Full-Stack Developer** at Ahonsi Groups,  
+where I build and maintain production-grade applications using React, sql, and Supabase.  
+*(Most of my recent contributions are in private repositories, but below are selected public projects that reflect my skills.)*
+
+---
+
 ## 🚀 Featured Projects  
 
 | Project | Description |
