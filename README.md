@@ -21,7 +21,8 @@ I love working across the stack—from crafting intuitive UIs to implementing po
 |---------|-------------|
 | **MESTATE** | A real estate platform that connects landlords and tenants directly, enabling seamless transactions while bypassing agents and middlemen—reducing extra charges on rentals, purchases, and leases. |
 | **BML** | A music platform where artists can create profiles, upload their tracks, and showcase new releases to a wider audience. |
-| **Resume** | My fully functional portfolio with backend optimization, allowing timely and regular updates to my profile and work experience. |
+| **Acheivers** | A full-stack platform designed to send automated email reminders to tenants when their rent has expired, prompting timely renewals and ensuring smooth landlord–tenant communication. |
+
 
 ---
 
@@ -47,8 +48,8 @@ I love working across the stack—from crafting intuitive UIs to implementing po
   <a href="https://github.com/olatf/BML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=olatf&repo=BML&theme=radical" />
   </a>
-  <a href="https://github.com/olatf/Resume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olatf&repo=Resume&theme=radical" />
+  <a href="https://github.com/olatf/Acheivers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olatf&repo=Acheivers&theme=radical" />
   </a>
 </p>
 
